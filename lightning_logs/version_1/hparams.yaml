@@ -1,0 +1,11 @@
+datamodule:
+  path: !!python/object/apply:pathlib.WindowsPath
+  - dataset
+  batch_size: 25
+trainer:
+  max_epochs: 20
+  enable_checkpointing: false
+  overfit_batches: 0
+  logger: true
+logger: null
+callbacks: null
