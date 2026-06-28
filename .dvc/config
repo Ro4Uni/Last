@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = gs://dlops-17741.firebasestorage.app
+    url = gs://dlops-17741.firebasestorage.app/files/md5

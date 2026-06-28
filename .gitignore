@@ -1,3 +1,9 @@
 dataset
 dataframe
 dlops-key.json
+lightning_logs
+wandb
+checkpoints
+logs
+models
+__pycache__
